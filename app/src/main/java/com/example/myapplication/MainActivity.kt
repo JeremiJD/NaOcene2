@@ -21,8 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         }
         nadbtn.setOnClickListener {
-            dopisany.text = input.text.toString()
-        }
+            dopisany.text = input.text.toStrie
     }
 
 
